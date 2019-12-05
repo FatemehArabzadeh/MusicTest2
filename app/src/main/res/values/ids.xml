@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guideline" type="id" />
+    <item name="id_icon_BottomSheett" type="id" />
+    <item name="id_SongName_BottomSheet" type="id" />
+    <item name="guideline2" type="id" />
+    <item name="id_next_icon" type="id" />
+    <item name="id_previous_icon" type="id" />
+    <item name="id_BottomSheett" type="id" />
+</resources>
